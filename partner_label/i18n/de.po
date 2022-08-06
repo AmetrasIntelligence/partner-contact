@@ -1,22 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * partner_label
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-26 15:33+0000\n"
-"PO-Revision-Date: 2017-12-26 15:33+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_label/i18n/partner_label.pot\n"
+"X-Crowdin-File-ID: 3856\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:52\n"
 
 #. module: partner_label
 #: model:ir.model,name:partner_label.model_res_company
@@ -26,7 +24,7 @@ msgstr "Unternehmen"
 #. module: partner_label
 #: model:ir.model,name:partner_label.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "Konfigurationseinstellung"
 
 #. module: partner_label
 #: model:ir.model.fields,field_description:partner_label.field_res_company__partner_labels_height
@@ -136,3 +134,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:partner_label.view_general_configuration
 msgid "mm"
 msgstr ""
+
