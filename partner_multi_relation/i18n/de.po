@@ -1,22 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * partner_multi_relation
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-26 15:33+0000\n"
-"PO-Revision-Date: 2017-12-26 15:33+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_multi_relation/i18n/partner_multi_relation.pot\n"
+"X-Crowdin-File-ID: 3860\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:52\n"
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
@@ -55,19 +53,19 @@ msgstr ""
 #. module: partner_multi_relation
 #: model:ir.model,name:partner_multi_relation.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation__create_uid
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__create_uid
 msgid "Created by"
-msgstr "erstellt von"
+msgstr "Erstellt von"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation__create_date
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__create_date
 msgid "Created on"
-msgstr "erstellt am"
+msgstr "Erstellt am"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type_selection__partner_category_this
@@ -121,14 +119,15 @@ msgstr "Enddatum"
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
+#: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
 #, python-format
 msgid "Error!"
-msgstr "Fehler."
+msgstr ""
 
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.search_res_partner_relation_all
 msgid "Group By"
-msgstr "Gruppieren"
+msgstr "Gruppiere nach"
 
 #. module: partner_multi_relation
 #: model:res.partner.relation.type,name_inverse:partner_multi_relation.rel_type_assistant
@@ -221,13 +220,13 @@ msgstr "Zuletzt geändert am"
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation__write_uid
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__write_uid
 msgid "Last Updated by"
-msgstr "zuletzt aktualisiert von"
+msgstr "Zuletzt aktualisiert von"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation__write_date
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__write_date
 msgid "Last Updated on"
-msgstr "zuletzt aktualisiert am"
+msgstr "Zuletzt aktualisiert am"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__partner_category_left
@@ -298,7 +297,7 @@ msgstr "Partnerart des anderen Satzes"
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_all__any_partner_id
 msgid "Partner"
-msgstr "Partner"
+msgstr "Kontakt"
 
 #. module: partner_multi_relation
 #: model:ir.model,name:partner_multi_relation.model_res_partner_relation_type
@@ -330,17 +329,16 @@ msgstr "Partner dürfen nicht mit sich selbst in Beziehung stehen."
 #: code:addons/partner_multi_relation/models/res_partner_relation_type.py:0
 #, python-format
 msgid "Person"
-msgstr "Person"
+msgstr ""
 
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.form_res_partner_relation_type
 msgid "Properties"
-msgstr "Eigenschaften"
+msgstr ""
 
 #. module: partner_multi_relation
 #: model_terms:ir.actions.act_window,help:partner_multi_relation.action_res_partner_relation_all
-msgid ""
-"Record and track your partners' relations. Relations may\n"
+msgid "Record and track your partners' relations. Relations may\n"
 "                be linked to other partners with a type either directly\n"
 "                or inversely."
 msgstr ""
@@ -359,10 +357,7 @@ msgstr ""
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_type.py:0
 #, python-format
-msgid ""
-"Reflexivity could not be disabled for the relation type {relation_type}. "
-"There are existing reflexive relations defined for the following partners: "
-"{partners}"
+msgid "Reflexivity could not be disabled for the relation type {relation_type}. There are existing reflexive relations defined for the following partners: {partners}"
 msgstr ""
 
 #. module: partner_multi_relation
@@ -378,9 +373,8 @@ msgstr "Art der Beziehung"
 
 #. module: partner_multi_relation
 #: model:ir.ui.menu,name:partner_multi_relation.menu_res_partner_relation_type
-#, fuzzy
 msgid "Relation Types"
-msgstr "Art der Beziehung"
+msgstr ""
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
@@ -495,9 +489,7 @@ msgstr "Das Anfangsdatum darf nicht nach dem Enddatum liegen."
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_type.py:0
 #, python-format
-msgid ""
-"There are already relations not satisfying the conditions for partner type "
-"or category."
+msgid "There are already relations not satisfying the conditions for partner type or category."
 msgstr ""
 
 #. module: partner_multi_relation
@@ -524,9 +516,8 @@ msgstr "Art"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_all__type_id
-#, fuzzy
 msgid "Underlying Relation Type"
-msgstr "Art der Partnerbeziehung"
+msgstr ""
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner.py:0
@@ -556,10 +547,8 @@ msgstr ""
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,help:partner_multi_relation.field_res_partner_relation_type__handle_invalid_onchange
-msgid ""
-"When adding relations criteria like partner type and category are checked.\n"
-"However when you change the criteria, there might be relations that do not "
-"fit the new criteria.\n"
+msgid "When adding relations criteria like partner type and category are checked.\n"
+"However when you change the criteria, there might be relations that do not fit the new criteria.\n"
 "Specify how this situation should be handled."
 msgstr ""
 
@@ -575,8 +564,3 @@ msgstr ""
 msgid "this"
 msgstr ""
 
-#~ msgid "Record Type"
-#~ msgstr "Satzart"
-
-#~ msgid "Relation"
-#~ msgstr "Beziehung"
