@@ -1,24 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * partner_contact_department
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
-# leemannd <denis.leemann@camptocamp.com>, 2017
-# Quentin THEURET <odoo@kerpeo.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-26 15:32+0000\n"
-"PO-Revision-Date: 2017-12-26 15:32+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2017\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_contact_department/i18n/partner_contact_department.pot\n"
+"X-Crowdin-File-ID: 3722\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:51\n"
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__child_ids
@@ -59,12 +55,12 @@ msgstr "Départements"
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__display_name
 msgid "Display Name"
-msgstr "Nom affiché"
+msgstr "Nom d'affichage"
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department____last_update
@@ -74,12 +70,12 @@ msgstr "Dernière modification le"
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__write_uid
 msgid "Last Updated by"
-msgstr "Mis à jour par"
+msgstr "Dernière mise à jour par"
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__write_date
 msgid "Last Updated on"
-msgstr "Mis à jour le"
+msgstr "Dernière mise à jour le"
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__name
@@ -89,12 +85,10 @@ msgstr "Nom"
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__parent_path
 msgid "Parent Path"
-msgstr ""
+msgstr "Chemin parent"
 
 #. module: partner_contact_department
 #: model:ir.model.fields,field_description:partner_contact_department.field_res_partner_department__parent_id
 msgid "Parent department"
 msgstr ""
 
-#~ msgid "Partner"
-#~ msgstr "Contact"
