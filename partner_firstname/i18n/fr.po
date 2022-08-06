@@ -1,40 +1,37 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * partner_firstname
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Nicolas JEUDY <njeudy@panda-chi.io>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-03 20:26+0000\n"
-"PO-Revision-Date: 2020-11-05 11:13+0000\n"
-"Last-Translator: Houzéfa Abbasbhay <houzefa.abba@xcg-consulting.fr>\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_firstname/i18n/partner_firstname.pot\n"
+"X-Crowdin-File-ID: 3830\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:52\n"
 
 #. module: partner_firstname
 #: code:addons/partner_firstname/models/res_users.py:0
+#: code:addons/partner_firstname/models/res_users.py:0
 #, python-format
 msgid "%s (copy)"
-msgstr "%s (copié)"
+msgstr "%s (copie)"
 
 #. module: partner_firstname
 #: model:ir.model,name:partner_firstname.model_res_config_settings
 msgid "Config Settings"
-msgstr "Paramètres de configuration"
+msgstr ""
 
 #. module: partner_firstname
 #: model:ir.model,name:partner_firstname.model_res_partner
 msgid "Contact"
-msgstr "Contact"
+msgstr ""
 
 #. module: partner_firstname
 #: model:ir.model.constraint,message:partner_firstname.constraint_res_partner_check_name
@@ -98,15 +95,11 @@ msgstr "Recalculer les noms et prénoms"
 
 #. module: partner_firstname
 #: model_terms:ir.ui.view,arch_db:partner_firstname.res_config_settings_view_form
-msgid ""
-"Recalculate names for all partners. This process could take so much time if "
-"there are more than 10,000 active partners"
-msgstr ""
-"Calcul des noms et prénoms de tous les partenaires. Ce traitement peut "
-"prendre plusieurs minutes, voir plus si le nombre de partenaires actifs "
-"dépasse les 10000"
+msgid "Recalculate names for all partners. This process could take so much time if there are more than 10,000 active partners"
+msgstr "Calcul des noms et prénoms de tous les partenaires. Ce traitement peut prendre plusieurs minutes, voir plus si le nombre de partenaires actifs dépasse les 10000"
 
 #. module: partner_firstname
 #: model:ir.model,name:partner_firstname.model_res_users
 msgid "Users"
 msgstr "Utilisateurs"
+
