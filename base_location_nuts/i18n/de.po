@@ -1,27 +1,25 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * base_location_nuts
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-24 03:46+0000\n"
-"PO-Revision-Date: 2018-01-24 03:46+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2018\n"
-"Language-Team: German (https://www.transifex.com/oca/teams/23907/de/)\n"
-"Language: de\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location_nuts/i18n/base_location_nuts.pot\n"
+"X-Crowdin-File-ID: 3696\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-08-06 21:51\n"
 
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
 msgid "Cancel"
-msgstr "abbrechen"
+msgstr "Abbrechen"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__child_ids
@@ -31,7 +29,7 @@ msgstr "Untergeordnete"
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__code
 msgid "Code"
-msgstr "Schlüssel"
+msgstr ""
 
 #. module: base_location_nuts
 #: model:ir.model,name:base_location_nuts.model_res_partner
@@ -49,13 +47,13 @@ msgstr "Land"
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__create_uid
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__create_uid
 msgid "Created by"
-msgstr "erstellt von"
+msgstr "Erstellt von"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__create_date
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__create_date
 msgid "Created on"
-msgstr "erstellt am"
+msgstr "Erstellt am"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__display_name
@@ -84,7 +82,7 @@ msgstr "Erhielt einen Fehler beim Versuch die Datei %s herunterzuladen."
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.view_res_partner_nuts_filter
 msgid "Group By"
-msgstr "Gruppieren"
+msgstr "Gruppiere nach"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__id
@@ -95,7 +93,7 @@ msgstr "ID"
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
 msgid "Import"
-msgstr "Import"
+msgstr ""
 
 #. module: base_location_nuts
 #: model:ir.ui.menu,name:base_location_nuts.nuts_import_menu
@@ -123,13 +121,13 @@ msgstr "Zuletzt geändert am"
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__write_uid
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__write_uid
 msgid "Last Updated by"
-msgstr "zuletzt aktualisiert von"
+msgstr "Zuletzt aktualisiert von"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_nuts_import__write_date
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__write_date
 msgid "Last Updated on"
-msgstr "zuletzt aktualisiert am"
+msgstr "Zuletzt aktualisiert am"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__level
@@ -205,9 +203,8 @@ msgstr ""
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__parent_path
-#, fuzzy
 msgid "Parent Path"
-msgstr "Übergeordnet links"
+msgstr "Übergeordneter Pfad"
 
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.view_res_partner_nuts_filter
@@ -217,7 +214,7 @@ msgstr "Suche in NUTS"
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__state_id
 msgid "State"
-msgstr "Bundesland"
+msgstr "Status"
 
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_country__state_level
@@ -226,21 +223,13 @@ msgstr ""
 
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
-#, fuzzy
-msgid ""
-"This wizard will download the lastest version of\n"
+msgid "This wizard will download the lastest version of\n"
 "                NUTS 2013 from Europe RAMON metadata service.\n"
 "                Updating or creating new NUTS entries if not\n"
 "                found already in the system, and DELETING MISSING\n"
-"                ENTRIES from new downloaded file.\n"
-"\n"
-"                Update or deletion is prevented for NUTS entries with the "
-"flag 'Not updatable'."
+"                ENTRIES from new downloaded file.\n\n"
+"                Update or deletion is prevented for NUTS entries with the flag 'Not updatable'."
 msgstr ""
-"Dieser Assisten lädt die neueste Version des NUTS vom Europäischen RAMON "
-"Metadatendienst herunter. NUTS-Einträge werden aktualisiert oder angelegt, "
-"wenn sie nicht bereits im System vorhanden sind und werden GELÖSCHT, wenn "
-"sie in der neuen Datei fehlen."
 
 #. module: base_location_nuts
 #: code:addons/base_location_nuts/wizard/nuts_import.py:0
@@ -250,12 +239,8 @@ msgstr "Wert für Pflichtfeld %s nicht gefunden"
 
 #. module: base_location_nuts
 #: model_terms:ir.actions.act_window,help:base_location_nuts.res_partner_nuts_action
-msgid ""
-"You must click at import wizard to populate NUTS items\n"
+msgid "You must click at import wizard to populate NUTS items\n"
 "        in Odoo database in:\n"
-"        Sales &gt; Configuration &gt; Address Book &gt; Localization &gt; "
-"Import NUTS 2013"
+"        Sales &gt; Configuration &gt; Address Book &gt; Localization &gt; Import NUTS 2013"
 msgstr ""
 
-#~ msgid "Parent Right"
-#~ msgstr "Übergeordnet rechts"
