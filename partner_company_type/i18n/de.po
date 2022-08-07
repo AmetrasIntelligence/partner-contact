@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_company_type/i18n/partner_company_type.pot\n"
 "X-Crowdin-File-ID: 3712\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-07 00:00\n"
 
 #. module: partner_company_type
 #: model:res.partner.company.type,shortcut:partner_company_type.res_partner_company_type_sa
@@ -24,7 +24,7 @@ msgstr ""
 #. module: partner_company_type
 #: model:ir.model.fields,field_description:partner_company_type.field_res_partner_company_type__shortcut
 msgid "Abbreviation"
-msgstr ""
+msgstr "Abbreviation"
 
 #. module: partner_company_type
 #: model:res.partner.company.type,name:partner_company_type.res_partner_company_type_sa
@@ -97,5 +97,5 @@ msgstr ""
 #. module: partner_company_type
 #: model:ir.model.fields,field_description:partner_company_type.field_res_partner_company_type__name
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
