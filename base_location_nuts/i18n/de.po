@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location_nuts/i18n/base_location_nuts.pot\n"
 "X-Crowdin-File-ID: 3696\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-08-07 00:00\n"
 
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
@@ -29,7 +29,7 @@ msgstr "Untergeordnete"
 #. module: base_location_nuts
 #: model:ir.model.fields,field_description:base_location_nuts.field_res_partner_nuts__code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #. module: base_location_nuts
 #: model:ir.model,name:base_location_nuts.model_res_partner
