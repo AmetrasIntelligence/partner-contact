@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_bank_active/i18n/partner_bank_active.pot\n"
 "X-Crowdin-File-ID: 3706\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-07 00:00\n"
 
 #. module: partner_bank_active
 #: model:ir.model.fields,field_description:partner_bank_active.field_account_setup_bank_manual_config__active
@@ -31,5 +31,5 @@ msgstr ""
 #. module: partner_bank_active
 #: model:ir.model,name:partner_bank_active.model_res_partner_bank
 msgid "Bank Accounts"
-msgstr ""
+msgstr "Bankkonten"
 
