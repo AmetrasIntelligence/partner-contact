@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location_nuts/i18n/base_location_nuts.pot\n"
 "X-Crowdin-File-ID: 3696\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:00\n"
+"PO-Revision-Date: 2022-08-11 11:39\n"
 
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
@@ -93,7 +93,7 @@ msgstr "ID"
 #. module: base_location_nuts
 #: model_terms:ir.ui.view,arch_db:base_location_nuts.nuts_import_form
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #. module: base_location_nuts
 #: model:ir.ui.menu,name:base_location_nuts.nuts_import_menu
