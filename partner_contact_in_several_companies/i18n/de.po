@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_contact_in_several_companies/i18n/partner_contact_in_several_companies.pot\n"
 "X-Crowdin-File-ID: 3728\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-08-11 14:02\n"
 
 #. module: partner_contact_in_several_companies
 #: model:ir.model,name:partner_contact_in_several_companies.model_ir_actions_act_window
@@ -24,7 +24,7 @@ msgstr "Aktionsdialog"
 #. module: partner_contact_in_several_companies
 #: model_terms:ir.ui.view,arch_db:partner_contact_in_several_companies.view_partner_form_inherit
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 #. module: partner_contact_in_several_companies
 #: model:ir.actions.act_window,name:partner_contact_in_several_companies.action_partner_form
