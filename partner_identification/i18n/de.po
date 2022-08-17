@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_identification/i18n/partner_identification.pot\n"
 "X-Crowdin-File-ID: 3834\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:01\n"
+"PO-Revision-Date: 2022-08-17 15:43\n"
 
 #. module: partner_identification
 #: code:addons/partner_identification/models/res_partner_id_category.py:0
@@ -245,7 +245,7 @@ msgstr "läuft"
 #. module: partner_identification
 #: model:ir.model.fields,field_description:partner_identification.field_res_partner_id_number__status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: partner_identification
 #: model:ir.model.fields,help:partner_identification.field_res_partner_id_number__name
