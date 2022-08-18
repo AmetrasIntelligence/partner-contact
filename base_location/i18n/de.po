@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location/i18n/base_location.pot\n"
 "X-Crowdin-File-ID: 3692\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:14\n"
+"PO-Revision-Date: 2022-08-18 11:14\n"
 
 #. module: base_location
 #: model:res.city,name:base_location.demo_brussels_city
 msgid "Brussels"
-msgstr ""
+msgstr "Brüssel"
 
 #. module: base_location
 #: model:ir.model.fields,help:base_location.field_res_company__country_enforce_cities
@@ -41,7 +41,7 @@ msgstr "Stadt"
 #. module: base_location
 #: model:ir.model.fields,field_description:base_location.field_res_company__city_id
 msgid "City ID"
-msgstr ""
+msgstr "Stadt ID"
 
 #. module: base_location
 #: model_terms:ir.ui.view,arch_db:base_location.view_company_form_city
