@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_label/i18n/partner_label.pot\n"
 "X-Crowdin-File-ID: 3856\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: partner_label
 #: model:ir.model,name:partner_label.model_res_company
@@ -106,7 +106,7 @@ msgstr ""
 #. module: partner_label
 #: model:ir.model.fields,field_description:partner_label.field_res_config_settings__partner_labels_paperformat_id
 msgid "Paperformat"
-msgstr ""
+msgstr "Papierformat"
 
 #. module: partner_label
 #: model:ir.actions.report,name:partner_label.report_res_partner_label
@@ -122,16 +122,16 @@ msgstr ""
 #: model:ir.model.fields,field_description:partner_label.field_res_company__partner_labels_width
 #: model:ir.model.fields,field_description:partner_label.field_res_config_settings__partner_labels_width
 msgid "Width"
-msgstr ""
+msgstr "Breite"
 
 #. module: partner_label
 #: model:ir.model.fields,help:partner_label.field_res_company__partner_labels_width
 #: model:ir.model.fields,help:partner_label.field_res_config_settings__partner_labels_width
 msgid "Width in millimeters"
-msgstr ""
+msgstr "Breite in Millimetern"
 
 #. module: partner_label
 #: model_terms:ir.ui.view,arch_db:partner_label.view_general_configuration
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
