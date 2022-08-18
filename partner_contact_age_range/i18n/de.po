@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_contact_age_range/i18n/partner_contact_age_range.pot\n"
 "X-Crowdin-File-ID: 3718\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: partner_contact_age_range
 #: code:addons/partner_contact_age_range/models/res_partner_age_range.py:0
@@ -31,7 +31,7 @@ msgstr ""
 #. module: partner_contact_age_range
 #: model:ir.model.constraint,message:partner_contact_age_range.constraint_res_partner_age_range_name_uniq
 msgid "A name must be unique !"
-msgstr ""
+msgstr "Ein Name muss eindeutig sein !"
 
 #. module: partner_contact_age_range
 #: model:ir.model.fields,field_description:partner_contact_age_range.field_res_partner__age_range_id
