@@ -14,13 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_contact_birthdate/i18n/partner_contact_birthdate.pot\n"
 "X-Crowdin-File-ID: 3720\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: partner_contact_birthdate
 #: model:ir.model.fields,field_description:partner_contact_birthdate.field_res_partner__age
 #: model:ir.model.fields,field_description:partner_contact_birthdate.field_res_users__age
 msgid "Age"
-msgstr ""
+msgstr "Alter"
 
 #. module: partner_contact_birthdate
 #: model:ir.model.fields,field_description:partner_contact_birthdate.field_res_partner__birthdate_date
