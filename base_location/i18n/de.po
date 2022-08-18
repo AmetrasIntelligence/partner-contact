@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location/i18n/base_location.pot\n"
 "X-Crowdin-File-ID: 3692\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 11:14\n"
+"PO-Revision-Date: 2022-08-18 12:18\n"
 
 #. module: base_location
 #: model:res.city,name:base_location.demo_brussels_city
@@ -53,7 +53,7 @@ msgstr "Orts-Vervollständigung"
 #: model:ir.model.fields,field_description:base_location.field_res_partner__city_id
 #: model:ir.model.fields,field_description:base_location.field_res_users__city_id
 msgid "City of Address"
-msgstr ""
+msgstr "Stadt der Anschrift"
 
 #. module: base_location
 #: model:ir.model,name:base_location.model_res_city_zip
