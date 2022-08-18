@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_fax/i18n/partner_fax.pot\n"
 "X-Crowdin-File-ID: 3826\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: partner_fax
 #: model:ir.model,name:partner_fax.model_res_partner
@@ -25,12 +25,12 @@ msgstr "Kontakt"
 #: model:ir.model.fields,field_description:partner_fax.field_res_partner__fax
 #: model:ir.model.fields,field_description:partner_fax.field_res_users__fax
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #. module: partner_fax
 #: model_terms:ir.ui.view,arch_db:partner_fax.view_partner_form_fax
 #: model_terms:ir.ui.view,arch_db:partner_fax.view_partner_short_form_fax
 #: model_terms:ir.ui.view,arch_db:partner_fax.view_partner_simple_form_fax
 msgid "Fax..."
-msgstr ""
+msgstr "Fax..."
 
