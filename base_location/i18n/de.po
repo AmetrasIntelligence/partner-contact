@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location/i18n/base_location.pot\n"
 "X-Crowdin-File-ID: 3692\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 12:18\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: base_location
 #: model:res.city,name:base_location.demo_brussels_city
@@ -135,7 +135,7 @@ msgstr "Standorte"
 #. module: base_location
 #: model_terms:ir.ui.view,arch_db:base_location.view_city_zip_filter
 msgid "Search zip"
-msgstr ""
+msgstr "Suche PLZ"
 
 #. module: base_location
 #: code:addons/base_location/models/res_partner.py:0
@@ -163,12 +163,12 @@ msgstr "Verwenden Sie den Stadtnamen oder die PLZ, um nach diesem Standort zu su
 #. module: base_location
 #: model:ir.model.constraint,message:base_location.constraint_res_city_name_state_country_uniq
 msgid "You already have a city with that name in the same state.The city must have a unique name within it's state and it's country"
-msgstr ""
+msgstr "Sie haben bereits eine Stadt mit diesem Namen in demselben Bundesland. Die Stadt muss in ihrem Bundesland und in ihrem Land einen eindeutigen Namen haben."
 
 #. module: base_location
 #: model:ir.model.constraint,message:base_location.constraint_res_city_zip_name_city_uniq
 msgid "You already have a zip with that code in the same city. The zip code must be unique within it's city"
-msgstr ""
+msgstr "Sie haben bereits eine Postleitzahl mit diesem Code in derselben Stadt. Die Postleitzahl muss innerhalb ihrer Stadt eindeutig sein."
 
 #. module: base_location
 #: model:ir.model.fields,field_description:base_location.field_res_city_zip__name
@@ -185,7 +185,7 @@ msgstr "Standort-PLZ"
 #. module: base_location
 #: model_terms:ir.ui.view,arch_db:base_location.city_zip_form
 msgid "Zip"
-msgstr ""
+msgstr "PLZ"
 
 #. module: base_location
 #: model:ir.ui.menu,name:base_location.locations_menu_zips
@@ -193,10 +193,10 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:base_location.view_city_form
 #: model_terms:ir.ui.view,arch_db:base_location.view_res_country_city_better_zip_form
 msgid "Zips"
-msgstr ""
+msgstr "PLZ"
 
 #. module: base_location
 #: model:ir.model.fields,field_description:base_location.field_res_city__zip_ids
 msgid "Zips in this city"
-msgstr ""
+msgstr "Postleitzahlen in der Stadt"
 
