@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_multi_relation/i18n/partner_multi_relation.pot\n"
 "X-Crowdin-File-ID: 3860\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-18 13:57\n"
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
@@ -122,7 +122,7 @@ msgstr "Enddatum"
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Fehler!"
 
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.search_res_partner_relation_all
@@ -246,7 +246,7 @@ msgstr "Linker Zweig der Beziehung"
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.search_res_partner_relation_all
 msgid "Left to right"
-msgstr ""
+msgstr "Links nach Rechts"
 
 #. module: partner_multi_relation
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__name
@@ -429,7 +429,7 @@ msgstr "Rechter Zweig der Beziehung"
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.search_res_partner_relation_all
 msgid "Right to left"
-msgstr ""
+msgstr "Rechts nach Links"
 
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.search_res_partner_relation_all
@@ -456,13 +456,13 @@ msgstr "Anfangsdatum"
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type__is_symmetric
 #: model:ir.model.fields,field_description:partner_multi_relation.field_res_partner_relation_type_selection__is_symmetric
 msgid "Symmetric"
-msgstr ""
+msgstr "Symmetrisch"
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation.py:0
 #, python-format
 msgid "The %s partner does not have category %s."
-msgstr ""
+msgstr "Der Partner %s hat nicht die Kategorie %s."
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation.py:0
