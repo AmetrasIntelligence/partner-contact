@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/portal_partner_select_all/i18n/portal_partner_select_all.pot\n"
 "X-Crowdin-File-ID: 3894\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-08-18 13:57\n"
 
 #. module: portal_partner_select_all
 #: model_terms:ir.ui.view,arch_db:portal_partner_select_all.portal_wizard
@@ -24,11 +24,11 @@ msgstr ""
 #. module: portal_partner_select_all
 #: model:ir.model,name:portal_partner_select_all.model_portal_wizard
 msgid "Grant Portal Access"
-msgstr ""
+msgstr "Portalzugriff gewähren"
 
 #. module: portal_partner_select_all
 #: model:ir.model.fields,field_description:portal_partner_select_all.field_portal_wizard__set_all_users
 #: model_terms:ir.ui.view,arch_db:portal_partner_select_all.portal_wizard
 msgid "Invite all the contacts"
-msgstr ""
+msgstr "Alle Kontakte einladen"
 
