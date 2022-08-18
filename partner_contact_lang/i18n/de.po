@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_contact_lang/i18n/partner_contact_lang.pot\n"
 "X-Crowdin-File-ID: 3734\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-08-18 13:56\n"
 
 #. module: partner_contact_lang
 #: model:ir.model,name:partner_contact_lang.model_res_partner
@@ -24,5 +24,5 @@ msgstr "Kontakt"
 #. module: partner_contact_lang
 #: model_terms:ir.ui.view,arch_db:partner_contact_lang.view_res_partner_filter
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
