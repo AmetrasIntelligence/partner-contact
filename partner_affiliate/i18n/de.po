@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_affiliate/i18n/partner_affiliate.pot\n"
 "X-Crowdin-File-ID: 3704\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:52\n"
+"PO-Revision-Date: 2022-10-05 13:08\n"
 
 #. module: partner_affiliate
 #: model:ir.model.fields,field_description:partner_affiliate.field_res_partner__affiliate_ids
@@ -48,7 +48,7 @@ msgstr "Rechnung"
 #. module: partner_affiliate
 #: model_terms:ir.ui.view,arch_db:partner_affiliate.view_partner_form_add_affiliate
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #. module: partner_affiliate
 #: model_terms:ir.ui.view,arch_db:partner_affiliate.view_partner_form_add_affiliate
