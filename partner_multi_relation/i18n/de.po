@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_multi_relation/i18n/partner_multi_relation.pot\n"
 "X-Crowdin-File-ID: 3860\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 13:57\n"
+"PO-Revision-Date: 2022-10-07 05:55\n"
 
 #. module: partner_multi_relation
 #: code:addons/partner_multi_relation/models/res_partner_relation_all.py:0
@@ -334,7 +334,7 @@ msgstr ""
 #. module: partner_multi_relation
 #: model_terms:ir.ui.view,arch_db:partner_multi_relation.form_res_partner_relation_type
 msgid "Properties"
-msgstr ""
+msgstr "Eigenschaften"
 
 #. module: partner_multi_relation
 #: model_terms:ir.actions.act_window,help:partner_multi_relation.action_res_partner_relation_all
