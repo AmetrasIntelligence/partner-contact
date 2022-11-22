@@ -14,7 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/base_location_geonames_import/i18n/base_location_geonames_import.pot\n"
 "X-Crowdin-File-ID: 3694\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 21:51\n"
+"PO-Revision-Date: 2022-11-22 13:18\n"
+
+#. module: base_location_geonames_import
+#: code:addons/base_location_geonames_import/wizard/geonames_import.py:0
+#, python-format
+msgid "%d could not be deleted %"
+msgstr ""
 
 #. module: base_location_geonames_import
 #: model_terms:ir.ui.view,arch_db:base_location_geonames_import.city_zip_geonames_import_form
