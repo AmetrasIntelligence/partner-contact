@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[AmetrasIntelligence.partner-contact] 13.0/partner_bank_sort_code/i18n/partner_bank_sort_code.pot\n"
+"X-Crowdin-File-ID: 9123\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-11-22 13:18\n"
+
+#. module: partner_bank_sort_code
+#: model:ir.model,name:partner_bank_sort_code.model_res_bank
+msgid "Bank"
+msgstr "Bank"
+
+#. module: partner_bank_sort_code
+#: model:ir.model.fields,field_description:partner_bank_sort_code.field_res_bank__sort_code
+msgid "Sort Code"
+msgstr ""
+
+#. module: partner_bank_sort_code
+#: model:ir.model.constraint,message:partner_bank_sort_code.constraint_res_bank_sort_code_unique
+msgid "Sort Code has to be unique"
+msgstr ""
+
